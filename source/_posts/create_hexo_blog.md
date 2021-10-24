@@ -63,3 +63,9 @@ deploy:
 ``````
 hexo deploy
 ``````
+
+### 更换主题
+1. 打开 [https://hexo.io/themes/](https://hexo.io/themes/) 
+2. 选择自己喜欢的主题文件下载保存至 themes 中
+3. 修改 _config.yml 文件 theme: xxx
+* 需要因为我是保存至 github actions 进行部署，所以thems中有个 .gitweek 使得文件无法全部提交
