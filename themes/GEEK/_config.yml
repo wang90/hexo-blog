@@ -1,0 +1,19 @@
+logo_title: wang90
+
+style: black
+
+favicon: /favicon.ico
+
+menu:
+  知乎: https://www.zhihu.com/people/wang90_
+  语雀: https://www.yuque.com/wang90
+  Github: https://github.com/wang90
+  关于我: /about
+
+# 做了域名限制，请改成自己的 KEY
+# 若关闭valine 设置enable为false
+valine:
+  enable: false
+
+highlight:
+  enable: false
