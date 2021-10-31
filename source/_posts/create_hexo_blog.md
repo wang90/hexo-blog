@@ -1,5 +1,5 @@
 ---
-title: 重构博客的第一篇文章
+title: 构建自己的 hexo 博客
 date: 2021-10-23 16:32:29
 tags: hexo
 ---
