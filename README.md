@@ -1,15 +1,18 @@
 ## Blog
-分享我的前端知识
+#### 分享我的前端知识
 
-### [wang90github.io](https://wang90.github.io/)
+### 地址
+[wang90github.io](https://wang90.github.io/)
 
-### hexo-cli
-
+### 使用工具
+[hexo-cli](https://github.com/hexojs/hexo-cli)
+### 主题
+[geek](https://github.com/sanjinhub/hexo-theme-geek) 
+### 常用命令
 `````
 hexo serve
 
 hexo generate
 
 hexo deploy
-
 `````
