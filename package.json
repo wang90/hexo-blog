@@ -11,7 +11,7 @@
     "clean:yuque": "yuque-hexo clean"
   },
   "hexo": {
-    "version": "5.4.0"
+    "version": "5.4.1"
   },
   "dependencies": {
     "hexo": "^5.0.0",

@@ -2,7 +2,8 @@
     <a href="/index.html"><i class="fa fa-reply replay-btn" aria-hidden="true"></i></a>
     <div class="post-title">
         <p>
-            <%= page.title %>
+            <div><%= page.title %></div>
+            <div class="post-time"> <%= full_date(page.date, 'MMMM Do') %></div>
         </p>
         <hr>
     </div>
